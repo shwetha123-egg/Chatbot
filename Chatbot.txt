@@ -1,0 +1,109 @@
+                                                                                                                                              CHATBOT
+A chatbot is a software application used to conduct an on-line chat conversation via text or text-to-speech, in lieu of providing direct contact with a live human agent.
+ Designed to convincingly simulate the way a human would behave as a conversational partner, chatbot systems typically require continuous tuning and testing, and many in production remain unable to adequately converse or pass the industry standard Turing test.
+ The term "ChatterBot" was originally coined by Michael Mauldin (creator of the first Verbot) in 1994 to describe these conversational programs.
+
+Chatbots are typically used in dialog systems for various purposes including customer service, request routing, or for information gathering. 
+While some chatbot applications use extensive word-classification processes, Natural Language processors, and sophisticated AI, others simply scan for general keywords and generate responses using common phrases obtained from an associated library or database.
+
+Today, most chatbots are accessed on-line via website popups, or through virtual assistants such as Google Assistant, Amazon Alexa, or messaging apps such as Facebook Messenger or WeChat.
+ Chatbots are typically classified into usage categories that include: commerce (e-commerce via chat), education, entertainment, finance, health, news, and productivity.
+
+MESSAGING APPS:
+
+Many companies' chatbots run on messaging apps or simply via SMS. They are used for B2C customer service, sales and marketing.
+
+In 2016, Facebook Messenger allowed developers to place chatbots on their platform. There were 30,000 bots created for Messenger in the first six months, rising to 100,000 by September 2017.
+
+Since September 2017, this has also been as part of a pilot program on WhatsApp. Airlines KLM and Aeroméxico both announced their participation in the testing;
+ both airlines had previously launched customer services on the Facebook Messenger platform.
+
+The bots usually appear as one of the user's contacts, but can sometimes act as participants in a group chat.
+
+Many banks, insurers, media companies, e-commerce companies, airlines, hotel chains, retailers, health care providers, government entities and restaurant chains have used chatbots to answer simple questions, increase customer engagement,
+ for promotion, and to offer additional ways to order from them.
+
+A 2017 study showed 4% of companies used chatbots.
+According to a 2016 study, 80% of businesses said they intended to have one by 2020.
+
+As part of company apps and websites
+Previous generations of chatbots were present on company websites, e.g. Ask Jenn from Alaska Airlines which debuted in 2008[30] or Expedia's virtual customer service agent which launched in 2011.
+ The newer generation of chatbots includes IBM Watson-powered "Rocky", introduced in February 2017 by the New York City-based e-commerce company Rare Carat to provide information to prospective diamond buyers.
+
+CHATCOT SEQUENCES:
+
+Used by marketers to script sequences of messages, very similar to an Autoresponder sequence. 
+Such sequences can be triggered by user opt-in or the use of keywords within user interactions.
+ After a trigger occurs a sequence of messages is delivered until the next anticipated user response. Each user response is used in the decision tree to help the chatbot navigate the response sequences to deliver the correct response message.
+
+Company internal platforms
+Other companies explore ways they can use chatbots internally, for example for Customer Support, Human Resources, or even in Internet-of-Things (IoT) projects.
+ Overstock.com, for one, has reportedly launched a chatbot named Mila to automate certain simple yet time-consuming processes when requesting for a sick leave.
+ Other large companies such as Lloyds Banking Group, Royal Bank of Scotland, Renault and Citroën are now using automated online assistants instead of call centres with humans to provide a first point of contact. 
+A SaaS chatbot business ecosystem has been steadily growing since the F8 Conference when Facebook's Mark Zuckerberg unveiled that Messenger would allow chatbots into the app. 
+In large companies, like in hospitals and aviation organizations, IT architects are designing reference architectures for Intelligent Chatbots that are used to unlock and share knowledge and experience in the organization more efficiently,
+ and reduce the errors in answers from expert service desks significantly.
+These Intelligent Chatbots make use of all kinds of artificial intelligence like image moderation and natural language understanding (NLU), natural language generation (NLG), machine learning and deep learning.
+
+CUSTOMER SERVICES:
+
+Many high-tech banking organizations are looking to integrate automated AI-based solutions such as chatbots into their customer service in order to provide faster and cheaper assistance to their clients who are becoming increasingly comfortable with technology.
+ In particular, chatbots can efficiently conduct a dialogue, usually replacing other communication tools such as email, phone, or SMS. 
+In banking, their major application is related to quick customer service answering common requests, as well as transactional support.
+
+Several studies report significant reduction in the cost of customer services, expected to lead to billions of dollars of economic savings in the next 10 years. In 2019, Gartner predicted that by 2021, 15% of all customer service interactions globally will be handled completely by AI.
+ A study by Juniper Research in 2019 estimates retail sales resulting from chatbot-based interactions will reach $112 billion by 2023.
+
+Since 2016 when Facebook allowed businesses to deliver automated customer support, e-commerce guidance, content and interactive experiences through chatbots, a large variety of chatbots were developed for the Facebook Messenger platform.
+
+In 2016, Russia-based Tochka Bank launched the world's first Facebook bot for a range of financial services, including a possibility of making payments.
+
+In July 2016, Barclays Africa also launched a Facebook chatbot, making it the first bank to do so in Africa.
+
+The France's third largest bank by total assets[43] Société Générale launched their chatbot called SoBot in March 2018. While 80% of users of the SoBot expressed their satisfaction after having tested it, 
+Société Générale deputy director Bertrand Cozzarolo stated that it will never replace the expertise provided by a human advisor. 
+
+The advantages of using chatbots for customer interactions in banking include cost reduction, financial advice, and 24/7 support.
+
+HEALTHCARE:
+
+See also: Artificial intelligence in healthcare
+Chatbots are also appearing in the healthcare industry. A study suggested that physicians in the United States believed that chatbots would be most beneficial for scheduling doctor appointments, locating health clinics, or providing medication information.
+
+Whatsapp has tied up with the World Health Organisation (WHO) to make a chatbot service that answers users’ questions on Covid-19.
+
+The Indian Government recently launched a chatbot called MyGov Corona Helpdesk, that works through Whatsapp and helps people access information about the Coronavirus (Covid-19) pandemic.
+
+Certain patient groups are still reluctant to use chatbots. A mixed-methods study showed that people are still hesitant to use chatbots for their healthcare due to poor understanding of the technological complexity, the lack of empathy and concerns about cyber-security. 
+The analysis showed that while 6% had heard of a health chatbot and 3% had experience of using it, 67% perceived themselves as likely to use one within 12 months. 
+The majority of participants would use a health chatbot for seeking general health information (78%), booking a medical appointment (78%) and looking for local health services (80%).
+ However, a health chatbot was perceived as less suitable for seeking results of medical tests and seeking specialist advice such as sexual health. The analysis of attitudinal variables showed that most participants reported their preference for discussing their health with doctors (73%) and having access to reliable and accurate health information (93%). 
+While 80% were curious about new technologies that could improve their health, 66% reported only seeking a doctor when experiencing a health problem and 65% thought that a chatbot was a good idea. Interestingly, 30% reported dislike about talking to computers, 41% felt it would be strange to discuss health matters with a chatbot and about half were unsure if they could trust the advice given by a chatbot. 
+Therefore, perceived trustworthiness, individual attitudes towards bots and dislike for talking to computers are the main barriers to health chatbots.
+
+POLITICS:
+
+See also: Government by algorithm § AI politicians
+In New Zealand, the chatbot SAM -short for Semantic Analysis Machine-(made by Nick Gerritsen of Touchtech) has been developed. It is designed to share its political thoughts, for example on topics such as climate change, healthcare and education, etc. It talks to people through Facebook Messenger.
+
+In India, the state government has launched a chatbot for its Aaple Sarkar platform, which provides conversational access to information regarding public services managed.
+
+TOYS:
+
+Chatbots have also been incorporated into devices not primarily meant for computing, such as toys.
+
+Hello Barbie is an Internet-connected version of the doll that uses a chatbot provided by the company ToyTalk, which previously used the chatbot for a range of smartphone-based characters for children.These characters' behaviors are constrained by a set of rules that in effect emulate a particular character and produce a storyline.
+
+The My Friend Cayla doll was marketed as a line of 18-inch (46 cm) dolls which uses speech recognition technology in conjunction with an Android or iOS mobile app to recognize the child's speech and have a conversation. It, like the Hello Barbie doll, attracted controversy due to vulnerabilities with the doll's Bluetooth stack and its use of data collected from the child's speech.
+
+IBM's Watson computer has been used as the basis for chatbot-based educational toys for companies such as CogniToys intended to interact with children for educational purposes.
+
+LIMITATIONS:
+
+As the database, used for output generation, is fixed and limited, chatbots can fail while dealing with an unsaved query.
+A chatbot's efficiency highly depends on language processing and is limited because of irregularities, such as accents and mistakes.
+Chatbots are unable to deal with multiple questions at the same time and so conversation opportunities are limited.
+Chatbots require a large amount of conversational data to train.
+Chatbots have difficulty managing non-linear conversations that must go back and forth on a topic with a user .
+As it happens usually with technology-led changes in existing services, some consumers, more often than not from the old generation, are uncomfortable with chatbots due to their limited understanding, 
+making it obvious that their requests are being dealt with by machines.
